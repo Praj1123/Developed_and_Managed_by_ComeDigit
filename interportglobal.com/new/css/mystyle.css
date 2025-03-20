@@ -1,0 +1,477 @@
+.cool-row,
+.hot-row {
+    background: #f2f2f2
+}
+
+.captioned-accordion,
+.purpose-accordion {
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    line-height: 1.5 !important;
+}
+
+.float-border {
+    border-bottom: 1px solid #ede8e8 !important;
+    border-radius: 0 !important;
+    border-right: none;
+    border-left: none;
+    border-top: none
+}
+
+.float-space {
+    padding: .75rem 0 !important
+}
+
+.float-border:focus {
+    padding-left: 0 !important;
+    border-color: #a5a3a3 !important;
+    padding-bottom: 0 !important
+}
+
+.container-left-border {
+    border-left: 1px solid #e5e2e2
+}
+
+.cool-row {
+    color: #da251c
+}
+
+.c-black {
+    color: #333 !important
+}
+
+.strong-purpose {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.form-select:focus {
+    box-shadow: none
+}
+
+.info-mail,
+.inter-mail-spacing {
+    padding-top: 12px
+}
+
+.title-container {
+    max-width: 100%;
+    padding: 0 2.5rem
+}
+
+.main-title-section {
+    padding: 106px 0 10px
+}
+
+.contact-heading {
+    font-size: 44px !important
+}
+
+.breadcrump-list {
+    padding: 0 !important
+}
+
+.main-title-section ul li:last-child,
+.page-title-section ul li:last-child a {
+    opacity: 1 !important
+}
+
+.insurance-required {
+    height: 50px;
+    border-bottom: 1px solid #ede8e8 !important;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 0 !important;
+    padding: .375rem 2.5rem .375rem 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.insurance-required::placeholder {
+    color: #333
+}
+
+.bookings-sub-menu {
+    max-width: 100% !important
+}
+
+.value-align {
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.vision-align {
+    display: flex;
+    align-items: center
+}
+
+.cta-pdf {
+    padding: 15px 25px;
+    font-size: 15px;
+    background: #264653;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 4px
+}
+
+.file-btn,
+.inner-management {
+    border: none !important
+}
+
+.for-more-pdf,
+.solutions-section-title {
+    margin-top: 2rem
+}
+
+.below-links {
+    list-style-type: none
+}
+
+.radio-career:checked {
+    border-color: #da251c;
+    background-color: #da251c;
+    margin-top: 6px
+}
+
+.send-color {
+    background-color: #da251c !important
+}
+
+.agreement {
+    font-size: 13px;
+    font-weight: 700
+}
+
+.contact-letter {
+    font-size: 2.5rem
+}
+
+.location-careers {
+    display: flex;
+    justify-content: space-between
+}
+
+.fix-location {
+    height: auto !important
+}
+
+.career-heading {
+    color: #da251c !important
+}
+
+.kindly-fill {
+    font-size: 24px !important
+}
+
+.form-name {
+    font-size: 15px !important
+}
+
+.quform-submit-inner {
+    position: relative;
+    top: 24px !important
+}
+
+.i-check-agree {
+    font-size: 12px
+}
+
+.air-freight-bg,
+.break-bulk-bg,
+.cargo-insurance-bg,
+.container-freight-station-bg,
+.custom-clearance-bg,
+.door-to-door-delivery,
+.exhibition-cargo-bg,
+.hazardous-cargo-bg,
+.heavy-lift,
+.import-export-bg,
+.iso-tanks-flexi-tanks,
+.logistics-solutions-bg,
+.nvocc-bg,
+.project-cargo-bg,
+.project-logistics-bg,
+.rail-freight-bg,
+.rfid-bg,
+.sea-freight-bg,
+.services-bg,
+.transportation-distribution-bg,
+.turnkey-projects-bg,
+.warehouse-management-bg,
+.warehousing-bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+@-webkit-keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-20px)
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0)
+    }
+}
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(-20px)
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0)
+    }
+}
+
+.fadeInRight {
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight
+}
+
+.services-bg {
+    background-size: cover;
+    padding: 2rem 0;
+    display: flex;
+    align-items: center;
+}
+
+.careers-bg {
+    background-image: url("../img/bg/careers-banner.jpg")
+}
+
+.india-info-bg {
+    background-image: url("../img/bg/india-info.jpg")
+}
+
+.print-your-bill-of-lading-bg {
+    background-image: url("../img/bg/print-your-bill-of-lading.jpg")
+}
+
+.import-export-bg {
+    background-image: url("../img/bg/import-export-consolidation.jpg")
+}
+
+.end-to-end-logistics-bg {
+    background-image: url("../img/bg/end-to-end-logistics.jpg")
+}
+
+.break-bulk-bg {
+    background-image: url("../img/bg/break-bulk.html")
+}
+
+.heavy-lift {
+    background-image: url("../img/bg/heavy-lift.jpg")
+}
+
+.door-to-door-delivery {
+    background-image: url("../img/bg/door-to-door-delivery.jpg")
+}
+
+.iso-tanks-flexi-tanks {
+    background-image: url("../img/bg/iso-tanks-flexi-tanks.jpg")
+}
+
+.nvocc-bg {
+    background-image: url("../img/bg/nvocc.jpg")
+}
+
+.project-logistics-bg {
+    background-image: url("../img/bg/project-logistics.html")
+}
+
+.transportation-distribution-bg {
+    background-image: url("../img/bg/transportation-%20distribution.html")
+}
+
+.warehousing-bg {
+    background-image: url("../img/bg/warehousing.html")
+}
+
+.exhibition-cargo-bg {
+    background-image: url("../img/bg/exhibition-cargo.html")
+}
+
+.hazardous-cargo-bg {
+    background-image: url("../img/bg/hazardous-cargo.jpg")
+}
+
+.project-cargo-bg {
+    background-image: url("../img/bg/project-cargo.jpg")
+}
+
+.rfid-bg {
+    background-image: url("../img/bg/rfid-solutions.html")
+}
+
+.warehouse-management-bg {
+    background-image: url("../img/bg/warehouse-management.jpg")
+}
+
+.turnkey-projects-bg {
+    background-image: url("../img/bg/turnkey-projects.jpg")
+}
+
+.logistics-solutions-bg {
+    background-image: url("../img/bg/logistics-solutions.html")
+}
+
+.cargo-insurance-bg {
+    background-image: url("../img/bg/cargo-insurance.jpg")
+}
+
+.container-freight-station-bg {
+    background-image: url("../img/bg/container-freight-station.html")
+}
+
+.custom-clearance-bg {
+    background-image: url("../img/bg/custom-clearance.jpg")
+}
+
+.freight-forwarding {
+    background-image: url("../img/bg/freight-forwarding3.jpg")
+}
+
+.ocean-freight-bg {
+    background-image: url("../img/bg/ocean-freight.jpg")
+}
+
+.air-freight-bg {
+    background-image: url("../img/bg/air-freight.jpg")
+}
+
+.rail-freight-bg {
+    background-image: url("../img/bg/rail-freight.jpg")
+}
+
+.road-freight-bg {
+    background-image: url("../img/bg/road-freight.jpg")
+}
+
+.vessel-handling-bg {
+    background-image: url("../img/bg/vessel-handling.jpg")
+}
+
+.about-bg {
+    background-image: url("../img/bg/about-banner.jpg")
+}
+
+.ivrs-bg {
+    background-image: url("../img/bg/ivrs.html")
+}
+
+p {
+    font-size: 1.125rem
+}
+
+div.flags-block>a>img {
+    width: 128px;
+    height: auto
+}
+
+.flags-block {
+    flex-direction: column
+}
+
+div.flags-block>div>a {
+    font-size: 14px
+}
+
+div.flags-block>div {
+    text-align: center !important
+}
+
+.inner-management {
+    margin-bottom: 0 !important
+}
+
+.if-you-ship {
+    margin-bottom: 2rem
+}
+
+.section-title .sub-one-title {
+    position: relative;
+    font-size: 18px;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 0;
+    color: #da251c;
+    text-transform: uppercase;
+    letter-spacing: 2.2px
+}
+
+.hide-show-block,
+.hide-show-block-one {
+    display: none
+}
+
+.usa-port-code-tab {
+    justify-content: space-around !important
+}
+
+.loud-accordion .accordion-button {
+    border: 1px solid #ededed !important;
+    color: #282b2d !important
+}
+
+.purpose-accordion {
+    font-weight: 600 !important
+}
+
+.captioned-accordion {
+    font-weight: 400;
+    line-height: 22px
+}
+
+.dry-cargo-block {
+    padding-right: 1rem !important;
+    padding-left: 3rem !important
+}
+
+.list-style1 li:after {
+    content: '\f0a9';
+    font-family: Font Awesome\ 5 Free;
+    position: absolute;
+    left: 0;
+    top: 8px;
+    z-index: 1;
+    font-weight: 600;
+    color: #efefef !important;
+    background-color: red !important;
+    border-radius: 50%;
+    line-height: 14px;
+    width: 14px
+}
+
+.hi-cube-dry {
+    height: 95px !important
+}
+
+.steel-button-accordion .accordion-button.collapsed:after,
+.steel-button-accordion .accordion-button:after {
+    position: relative;
+}
+
+.steel-dry-cargo {
+    color: #da251c;
+}
+
+.steel-button-accordion .accordion-button {
+    padding: .75rem 1rem .75rem 3rem !important;
+    border-radius: 20px;
+    border: unset !important;
+    box-shadow: 0 0 60px rgb(0 0 0 / 15%)
+}

@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Oct 2024 17:52:00 at https://interportglobal.com/2023-holiday-list.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://interportglobal.com/2023-holiday-list.php -O1 "C:\Users\prajw\Downloads\new website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:53:34	Error: 	"Forbidden" (403) at link https://kit.fontawesome.com/f70dd43e17.js (from https://interportglobal.com/2023-holiday-list.php)
+17:53:34	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://interportglobal.com/2023-holiday-list.php)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/index-2.html (from https://interportglobal.com/css/plugins.css)
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/fonts/fa-brands-400.woff2
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/fonts/fa-regular-400.woff2
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/fonts/fa-solid-900.woff2
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/fonts/fa-v4compatibility.woff2
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/icons/vimeo-play.html (from https://interportglobal.com/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/icons/video-play.html (from https://interportglobal.com/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/icons/youtube-play.html (from https://interportglobal.com/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/content/loading.gif (from https://interportglobal.com/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/css/owl.video.play.html (from https://interportglobal.com/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/break-bulk.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/project-logistics.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/transportation- distribution.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/warehousing.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/exhibition-cargo.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/rfid-solutions.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/logistics-solutions.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/container-freight-station.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/ivrs.jpg (from https://interportglobal.com/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/img/bg/mob-ivrs.jpg (from https://interportglobal.com/css/responsive.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/"http://www.nsict.co.in/" name="C166" (from https://interportglobal.com/industry-links.php)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/index-2.html (from https://interportglobal.com/new/css/plugins.css)
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/new/fonts/fa-brands-400.woff2
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/new/fonts/fa-regular-400.woff2
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/new/fonts/fa-solid-900.woff2
+17:57:04	Warning: 	File not parsed, looks like binary: https://interportglobal.com/new/fonts/fa-v4compatibility.woff2
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/icons/vimeo-play.html (from https://interportglobal.com/new/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/icons/video-play.html (from https://interportglobal.com/new/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/icons/youtube-play.html (from https://interportglobal.com/new/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/content/loading.gif (from https://interportglobal.com/new/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/css/owl.video.play.html (from https://interportglobal.com/new/css/plugins.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/break-bulk.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/project-logistics.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/transportation- distribution.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/warehousing.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/exhibition-cargo.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/rfid-solutions.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/logistics-solutions.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/container-freight-station.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:04	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/ivrs.jpg (from https://interportglobal.com/new/css/mystyle.css)
+17:57:05	Error: 	"Not Found" (404) at link https://interportglobal.com/new/img/bg/mob-ivrs.jpg (from https://interportglobal.com/new/css/responsive.css)
+17:57:05	Error: 	"Not Found" (404) at link https://interportglobal.com/new/"http://www.nsict.co.in/" name="C166" (from https://interportglobal.com/new/industry-links.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 5 seconds : 708 links scanned, 666 files written (67241354 bytes overall) [56946752 bytes received at 186710 bytes/sec], 12137420 bytes transferred using HTTP compression in 127 files, ratio 13%, 13.6 requests per connection
+(41 errors, 8 warnings, 0 messages)

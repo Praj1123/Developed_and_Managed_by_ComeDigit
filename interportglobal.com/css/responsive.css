@@ -1,0 +1,407 @@
+@media screen and (max-width:767px) {
+    .openings h3.h5{
+    min-height: auto;
+}
+
+    .pt-xs-0 {
+        padding-top: 0 !important;
+    }
+
+    .services-bg2.services-bg.import-export-bg,
+    .services-bg2.services-bg {
+        height: 70vh;  /* old value 28vh */
+        background-position: center center;
+        
+    }
+
+    .services-lenght {
+        padding-top: 0%;
+    }
+
+    .services-bg {
+        background-size: cover;
+        height: auto;
+    }
+
+    .navbar .sub-title,
+    .navbar ul ul li a {
+        color: #000 !important;
+        font-size: 14px
+    }
+
+    .top-position1 {
+        margin-top: 0
+    }
+
+    .tw-why-choose-section2 .tw-why-choose-right .tw-why-choose-media1 {
+        max-width: 352px
+    }
+
+    .header-style1 .navbar-toggler.menu-opened:after,
+    .header-style1 .navbar-toggler.menu-opened:before,
+    .header-style1 .navbar-toggler:before,
+    .navbar-nav .submenu-button:after,
+    .navbar-nav .submenu-button:before {
+        background: #000
+    }
+
+    .vision-mision-mob-section {
+        padding-top: 0
+    }
+
+    .addons-mob,
+    .cargo-mob,
+    .mob-bc-solution {
+        margin-top: 0 !important
+    }
+
+    .navbar .sub-title:active {
+        color: #da251c !important
+    }
+
+    .navbar-nav li:hover>ul {
+        left: 0
+    }
+
+    .company-mob-video,
+    .mob-company-video {
+        width: 100%
+    }
+
+    .vision-mob-mission {
+        margin-bottom: 0
+    }
+
+    .contact-mob-title {
+        margin-top: 20px
+    }
+
+    .vision-img-mission {
+        margin-top: 50px;
+        margin-bottom: 7px
+    }
+
+    .values-mob-section {
+        padding-top: 18px
+    }
+
+    .our-principle-mob {
+        padding-top: 36px
+    }
+
+    .trust-mob-img-hov {
+        margin-bottom: 30px
+    }
+
+    .navbar ul ul ul li a {
+        font-size: 14px
+    }
+
+    .menu_area-light .navbar-nav>li>a {
+        font-size: 18px;
+        color: #000
+    }
+
+    .menu_area-light .navbar-nav li.active>a,
+    .menu_area-light .navbar-nav li.current>a {
+        background: #f8f9fa;
+        color: #dc3545 !important
+    }
+
+    .header-style1 .navbar-toggler {
+        background: 0 0 !important
+    }
+
+    .header-style1 .navbar-toggler:after {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000
+    }
+
+    .footer-light .widget-title {
+        padding-bottom: 7px;
+        margin: 1rem 0
+    }
+
+    .footer-light .widget_services ul li a {
+        padding: 0
+    }
+
+    .respect-value {
+        margin-bottom: 21px
+    }
+
+    .quform-submit-inner {
+        top: 9px !important
+    }
+
+    .mob-card {
+        margin-bottom: 15px
+    }
+
+    .steel-button-accordion .accordion-button {
+        padding: .75rem 1rem !important;
+        flex-direction: column;
+        align-items: flex-start !important
+    }
+
+    .dry-cargo-block {
+        padding-right: 1rem !important;
+        padding-left: 0 !important
+    }
+
+    .section-title .mob-sub-title:before {
+        left: 24px !important;
+        bottom: 35px !important
+    }
+
+    .section-title .mob-sub-title:after {
+        left: 21px !important
+    }
+
+    .air-freight-bg,
+    .break-bulk-bg,
+    .cargo-insurance-bg,
+    .container-freight-station-bg,
+    .custom-clearance-bg,
+    .door-to-door-delivery,
+    .exhibition-cargo-bg,
+    .hazardous-cargo-bg,
+    .heavy-lift,
+    .import-export-bg,
+    .iso-tanks-flexi-tanks,
+    .logistics-solutions-bg,
+    .nvocc-bg,
+    .project-cargo-bg,
+    .project-logistics-bg,
+    .rail-freight-bg,
+    .rfid-bg,
+    .sea-freight-bg,
+    .services-bg,
+    .transportation-distribution-bg,
+    .turnkey-projects-bg,
+    .warehouse-management-bg,
+    .warehousing-bg {
+        background-size: contain
+    }
+
+    .careers-bg {
+        background-image: url("../img/bg/mob-careers-banner.jpg")
+    }
+
+    .india-info-bg {
+        background-image: url("../img/bg/mob-india-info.jpg")
+    }
+
+    .print-your-bill-of-lading-bg {
+        background-image: url("../img/bg/mob-print-your-bill-of-lading.jpg")
+    }
+
+    .import-export-bg {
+        background-image: url("../img/bg/mob-import-export-consolidation.jpg")
+    }
+
+    .end-to-end-logistics-bg {
+        background-image: url("../img/bg/mob-end-to-end-logistics.jpg")
+    }
+
+    .break-bulk-bg {
+        background-image: url("../img/bg/mob-break-bulk.jpg")
+    }
+
+    .heavy-lift {
+        background-image: url("../img/bg/mob-heavy-lift.jpg")
+    }
+
+    .door-to-door-delivery {
+        background-image: url("../img/bg/mob-door-to-door-delivery.jpg")
+    }
+
+    .iso-tanks-flexi-tanks {
+        background-image: url("../img/bg/mob-iso-tanks-flexi-tanks.jpg")
+    }
+
+    .nvocc-bg {
+        background-image: url("../img/bg/mob-nvocc.jpg")
+    }
+
+    .project-logistics-bg {
+        background-image: url("../img/bg/mob-project-logistics.jpg")
+    }
+
+    .transportation-distribution-bg {
+        background-image: url("../img/bg/mob-transportation-%20distribution.jpg")
+    }
+
+    .warehousing-bg {
+        background-image: url("../img/bg/mob-warehousing.jpg")
+    }
+
+    .exhibition-cargo-bg {
+        background-image: url("../img/bg/mob-exhibition-cargo.jpg")
+    }
+
+    .hazardous-cargo-bg {
+        background-image: url("../img/bg/mob-hazardous-cargo.jpg")
+    }
+
+    .project-cargo-bg {
+        background-image: url("../img/bg/mob-project-cargo.jpg")
+    }
+
+    .rfid-bg {
+        background-image: url("../img/bg/mob-rfid-solutions.jpg")
+    }
+
+    .warehouse-management-bg {
+        background-image: url("../img/bg/mob-warehouse-management.jpg")
+    }
+
+    .turnkey-projects-bg {
+        background-image: url("../img/bg/mob-turnkey-projects.jpg")
+    }
+
+    .logistics-solutions-bg {
+        background-image: url("../img/bg/mob-logistics-solutions.jpg")
+    }
+
+    .cargo-insurance-bg {
+        background-image: url("../img/bg/mob-cargo-insurance.jpg")
+    }
+
+    .container-freight-station-bg {
+        background-image: url("../img/bg/mob-container-freight-station.jpg")
+    }
+
+    .custom-clearance-bg {
+        background-image: url("../img/bg/mob-custom-clearance.jpg")
+    }
+
+    .freight-forwarding {
+        background-image: url("../img/bg/mob-freight-forwarding.jpg")
+    }
+
+    .ocean-freight-bg {
+        background-image: url("../img/bg/mob-ocean-freight.jpg")
+    }
+
+    .air-freight-bg {
+        background-image: url("../img/bg/mob-air-freight.jpg")
+    }
+
+    .rail-freight-bg {
+        background-image: url("../img/bg/mob-rail-freight.jpg")
+    }
+
+    .road-freight-bg {
+        background-image: url("../img/bg/mob-road-freight.jpg")
+    }
+
+    .vessel-handling-bg {
+        background-image: url("../img/bg/mob-vessel-handling.jpg")
+    }
+
+    .about-bg {
+        background-image: url("../img/bg/mob-about-banner.jpg")
+    }
+
+    .ivrs-bg {
+        background-image: url("../img/bg/mob-ivrs.html")
+    }
+
+    .incoterm-bg {
+        background-image: url('../img/bg/mob-inco-terms.jpg');
+        margin-bottom: -10px;
+    }
+
+    .minus-margin{
+        margin-bottom: -10rem;
+        z-index: 9;
+    }
+
+    /* .navbar-nav {
+        background: #efefef !important
+    } */
+
+    .widget_about {
+        margin-top: 7rem
+    }
+
+    .yellow-network {
+        margin-top: 21px
+    }
+
+    .section-title .sub-title {
+        font-size: 15px
+    }
+
+    .section-title .red-title:before {
+        bottom: 30px !important
+    }
+
+    .mob-image-hover {
+        padding-top: 20px;
+        padding-bottom: 20px
+    }
+
+    .section-title .services-title:before,
+    .section-title .track-title:before {
+        bottom: 5px !important
+    }
+
+    .career-mob-bottom {
+        margin-top: 30px !important
+    }
+
+    .fix-mob-career-height {
+        height: 31rem !important
+    }
+
+    .corporate-office-mob {
+        margin-bottom: 25px
+    }
+}
+
+@media screen and (max-width:1920px) and (min-width:1600px) {
+
+    .air-freight-bg,
+    .break-bulk-bg,
+    .cargo-insurance-bg,
+    .container-freight-station-bg,
+    .custom-clearance-bg,
+    .door-to-door-delivery,
+    .exhibition-cargo-bg,
+    .hazardous-cargo-bg,
+    .heavy-lift,
+    .import-export-bg,
+    .iso-tanks-flexi-tanks,
+    .logistics-solutions-bg,
+    .nvocc-bg,
+    .project-cargo-bg,
+    .project-logistics-bg,
+    .rail-freight-bg,
+    .rfid-bg,
+    .sea-freight-bg,
+    .services-bg,
+    .transportation-distribution-bg,
+    .turnkey-projects-bg,
+    .warehouse-management-bg,
+    .warehousing-bg {
+        background-position-y: -12rem
+    }
+
+    .what-a-map {
+        padding: 2rem !important
+    }
+
+    .what-map-inners {
+        height: 373.16px
+    }
+}
+
+@media only screen and (min-width:414px) and (max-width:767px) {
+
+    .respect-value,
+    .vision-img-mission {
+        width: 390px !important
+    }
+}
